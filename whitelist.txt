@@ -1,3 +1,4 @@
+@@||ad.doubleclick.net
 @@||youtubei.googleapis.com
 @@|*-*-*-*.brokendnssec.net^$important
 @@|*.*.livefilestore.com^$important

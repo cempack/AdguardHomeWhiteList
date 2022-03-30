@@ -1,4 +1,5 @@
 @@||ad.doubleclick.net
+@@||datadome.co^$important
 @@||discordapp.page.link^$important
 @@||youtubei.googleapis.com
 @@|*-*-*-*.brokendnssec.net^$important
